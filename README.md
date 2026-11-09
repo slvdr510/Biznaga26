@@ -32,7 +32,7 @@ En esta sesión técnica exploraremos a fondo Web-MCP (Web Model Context Protoco
 
 Durante la charla daremos a conocer las principales utilidades prácticas del protocolo: desde la API Declarativa para modernizar formularios HTML en segundos, hasta la API Imperativa para integrar lógicas complejas en aplicaciones React o Vue. Pero también hablaremos desde las trincheras, abordando los retos arquitectónicos reales: la obligatoria refactorización para desacoplar componentes, la gestión de costes y abusos, y la limitación del ciclo de vida en la pestaña del usuario. Finalmente, miraremos hacia el futuro debatiendo cómo Web-MCP sentará las bases del AEO (Agent Engine Optimization). Ven a descubrir cómo preparar tus proyectos frontend para la era de los motores agénticos.
 
-**Contenido**:
+**Recursos**:
 
 1. Spec y documentación
 
@@ -98,7 +98,7 @@ En esta charla cuento qué retos técnicos tienen empresas como Vercel, Canva, H
 
 No es una charla teoríca donde vaya a explicar la arquitectura ideal que ya la conocéis todos, es una charla práctica con ejemplos de arquitecturas de datos que han evolucionado durante años.
 
-**Contenido**:
+**Recursos**:
 
 [Contenido en la web original](https://lbrl.engineering/biznagafest)
 
@@ -116,7 +116,7 @@ This hands-on session is a deep dive into this modern "Builder Stack”, where y
 
 Come to this session if you want to spend less time configuring and more time creating. We’ll guide you through a complete development lifecycle, from prototyping an idea, to generating a beautiful UI, building AI features, and integrating a secure, scalable backend.
 
-**Contenido**:
+**Recursos**:
 
 [Publicación original](https://codelabs.developers.google.com/building-ai-apps-google-ecosystem#0)
 
@@ -132,7 +132,7 @@ Delegar la escritura de código a agentes de IA es el nuevo estándar, pero ¿c�
 
 En esta charla exploraremos cómo diseñar y programar arneses de rendimiento específicos para agentes de IA. Veremos cómo definir herramientas (tools) deterministas basadas en scripts de navegador y APIs nativas para que un agente pueda ejecutar su propio código, medir el estrés del hilo principal y analizar métricas clave de forma autónoma antes de dar por buena una tarea. Descubre cómo pasar de hacer prompt engineering a construir la infraestructura que guiará a las IA del futuro hacia un desarrollo web eficiente y de alto rendimiento.
 
-**Contenido**:
+**Recursos**:
 
 [Diapositivas originales](https://harness-eng.surge.sh)
 

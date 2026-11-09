@@ -1,8 +1,8 @@
-# Biznaga26@FYCMA
+# Biznaga26 @ FYCMA (Málaga)
 
----
+<br>
 
-## Construyendo features en vivo: SDD y técnicas para guiar a la IA
+## [Charla] Construyendo features en vivo: SDD y técnicas para guiar a la IA
 
 *Al habla, Fernando Herrera.*
 	
@@ -20,9 +20,9 @@ Haré una demo en vivo construiremos varios features de cero poniendo el foco en
 
 Le pregunté a Fernando qué proveedor de hosting usa para poder vender cursos en `cursos.devtalles.com`. Me comentó que usa  [thinkific.com](https://www.thinkific.com/). Tienen modalidad de pago único (1000$ anuales) y el resto de beneficio generado por las ventas de los cursos va para el creador.
 
----
+<br>
 
-## Construyendo la Web Agéntica: Introducción, Utilidades y Retos de Web-MCP
+## [Charla] Construyendo la Web Agéntica: Introducción, Utilidades y Retos de Web-MCP
 
 *Al habla, Raúl Tovar.*
 
@@ -70,9 +70,9 @@ La reflexión fue, desacoplar las funcionalidades de los botones para poder dár
 
 Todo esto implica una nueva serie de permisos y restricciones para dicha IA que usará la web, y una nueva superficie de ataque tanto para la web como para el agente que ejecuta algo proporcionado por WebMCP.
 
----
+<br>
 
-## Agentic DevOps no es lo que tú creías
+## [Charla] Agentic DevOps no es lo que tú creías
 
 *Al habla, Gisela Torres.*
 
@@ -86,9 +86,9 @@ Spoiler: el futuro no va solo de tener agentes más listos, sino de tener mejore
 
 Usar IA en github, haciendo un flujo de trabajo para gestionar qué PRs se pueden mergear directamente sin revisión humana. Además, que una IA lea dicho PR y que tenga un prompt template para generar algo nuevo gracias al ticket.
 
----
+<br>
 
-## Gestionando datos a gran escala
+## [Charla] Gestionando datos a gran escala
 
 *Al habla, Javi Santana.*
 
@@ -100,13 +100,13 @@ No es una charla teoríca donde vaya a explicar la arquitectura ideal que ya la 
 
 **Contenido**:
 
-[Shared content](https://lbrl.engineering/biznagafest)
+[Contenido en la web original](https://lbrl.engineering/biznagafest)
 
-[Slides](content/biznaga_Datos_a_escala_petabyte.pdf)
+[Diapositivas en el repositorio](content/biznaga_Datos_a_escala_petabyte.pdf)
 
----
+<br>
 
-## Building AI apps from scratch with the Google ecosystem
+## [Charla] Building AI apps from scratch with the Google ecosystem
 
 *Al mando del taller, Rosário Fernandes.*
 
@@ -116,16 +116,15 @@ This hands-on session is a deep dive into this modern "Builder Stack”, where y
 
 Come to this session if you want to spend less time configuring and more time creating. We’ll guide you through a complete development lifecycle, from prototyping an idea, to generating a beautiful UI, building AI features, and integrating a secure, scalable backend.
 
-
 **Contenido**:
 
-[OG site](https://codelabs.developers.google.com/building-ai-apps-google-ecosystem#0)
+[Publicación original](https://codelabs.developers.google.com/building-ai-apps-google-ecosystem#0)
 
-[slvdr510.dev post](https://slvdr510.dev/blog/0002-build-ai-apps-with-the-google-ecosystem/)
+[Publicación en slvdr510.dev](https://slvdr510.dev/blog/0002-build-ai-apps-with-the-google-ecosystem/)
 
----
+<br>
 
-## Harness Engineering: Construyendo el entorno para que tu Agente de IA escriba código rápido y óptimo
+## [Charla] Harness Engineering: Construyendo el entorno para que tu Agente de IA escriba código rápido y óptimo
 
 *Al habla, Joan León y Carlos Villuendas*
 
@@ -133,8 +132,8 @@ Delegar la escritura de código a agentes de IA es el nuevo estándar, pero ¿c�
 
 En esta charla exploraremos cómo diseñar y programar arneses de rendimiento específicos para agentes de IA. Veremos cómo definir herramientas (tools) deterministas basadas en scripts de navegador y APIs nativas para que un agente pueda ejecutar su propio código, medir el estrés del hilo principal y analizar métricas clave de forma autónoma antes de dar por buena una tarea. Descubre cómo pasar de hacer prompt engineering a construir la infraestructura que guiará a las IA del futuro hacia un desarrollo web eficiente y de alto rendimiento.
 
-[Slides OG](https://harness-eng.surge.sh)
+**Contenido**:
 
-[Slides en el repositorio](content/Harness_Engineering.html)
+[Diapositivas originales](https://harness-eng.surge.sh)
 
----
+[Diapositivas en el repositorio](content/Harness_Engineering.html)
